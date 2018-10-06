@@ -16,5 +16,6 @@ public class Main {
 		
 		
 		System.out.println("Test 1 for Sales tool");
+		System.out.println(("Test 2 for Sales tool"));
 	}
 }

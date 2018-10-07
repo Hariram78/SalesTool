@@ -11,8 +11,8 @@ public class Main {
 	
 	public static void displayGreeting()
 	{
-		System.out.println("HELLO HAPPY SALES PEOPLE!");
-		System.out.println("THIS APP SHOWS SALES DATA");
+		System.out.println("Hello Happy Sales People!");
+		System.out.println("This App Shows Sales Data");
 		
 		
 		System.out.println("Test 1 for Sales tool");

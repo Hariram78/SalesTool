@@ -2,17 +2,17 @@ package ca.demo.SalesTool;
 
 public class SalesData {
 
-	int data[] = {0,4,42};
+	int data[] = {-1,0,4,42,84};
 	
 	
 	public void display()
 	{
 		
 		System.out.println("data in array");
-		for(int i=0;i<data.length;i++) {
+		for(int i : data ){
 			
 			
-			System.out.println(data[i]);
+			System.out.println(i);
 			
 		}
 			
